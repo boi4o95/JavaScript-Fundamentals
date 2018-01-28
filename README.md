@@ -1,2 +1,2 @@
 # JavaScript-Fundamentals
-January  2018
+January  2018  SoftUni
